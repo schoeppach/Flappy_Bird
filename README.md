@@ -4,6 +4,5 @@
 
 - **Difficulty**: Beginner
 - **Topics**: Side Scrolling, Infinite Generation, Parallax
-- **Version**: Unity 2019.4 LTS
-- [**Download**](https://github.com/zigurous/unity-flappy-bird-tutorial/archive/refs/heads/main.zip)
-- [**Watch Video**](https://youtu.be/ihvBiJ1oC9U)
+- **Version**: Unity 2021.3.14 LTS
+
